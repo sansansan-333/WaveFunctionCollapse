@@ -1,4 +1,6 @@
 # WaveFunctionCollapse
+![img](https://github.com/sansansan-333/WaveFunctionCollapse/blob/main/image_sample.png?raw=true)
+
 本家 https://github.com/mxgmn/WaveFunctionCollapse
 
 overlapping modelの実装  
