@@ -4,6 +4,7 @@
 本家 https://github.com/mxgmn/WaveFunctionCollapse
 
 overlapping modelの実装  
+入力画像からそれに似た出力画像をランダムで生成する  
 
 ## 使い方
 ```
